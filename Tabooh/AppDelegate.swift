@@ -6,3 +6,8 @@
  */
 
 import Foundation
+import Cocoa
+import WebKit
+import Dispatch
+
+@NSApplicationMain
